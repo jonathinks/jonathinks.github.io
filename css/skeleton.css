@@ -158,7 +158,18 @@ menu {
   text-align: right;
   /*vertical-align: middle;*/
 }
-  
+
+.navigation-bar {
+	text-align: right;
+	word-spacing: 20px;
+	margin-right: 0px;
+}
+
+.navigation-bar a {
+    text-decoration: none;
+	color: #000000;
+}
+
 .video-container {
 	position:relative;
 	padding-bottom:56.25%;
